@@ -1,14 +1,5 @@
-## Hi there 👋
+![MOD-versiov](https://img.shields.io/badge/MOD%20version-1.0.0-blue) ![SPT](https://img.shields.io/badge/BASE%20version-3.7.1-blue) ![dependencies](https://img.shields.io/badge/dependencies-none-green) [![Feature Requests](https://img.shields.io/github/issues/Bulld0z3r-Dev/test-project/feature-request.svg)](https://github.com/Bulld0z3r-Dev/test-project/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc) [![Bugs](https://img.shields.io/github/issues/Bulld0z3r-Dev/test-project/bug.svg)](https://github.com/Bulld0z3r-Dev/test-project/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
 
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true" height="130">
+</p>
